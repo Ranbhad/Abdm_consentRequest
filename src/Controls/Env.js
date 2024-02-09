@@ -1,0 +1,1 @@
+export const env="https://dev.abdmc.healthekare.com/ehrn/abdmc"
